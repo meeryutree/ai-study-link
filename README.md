@@ -1,4 +1,4 @@
-# ai-study-link
+# ai 관련 사이트 모음
 
 
 1. [뤼튼](https://wrtn.ai/)
