@@ -12,3 +12,6 @@
 
 4. [DeepReel](https://www.deepreel.com/)
    - DeepReel은 딥러닝을 기반으로 한 비디오 생성 및 편집 서비스를 제공합니다.
+
+5. [ChatGPT](https://www.openai.com/)
+   - ChatGPT는 OpenAI에서 개발한 자연어 처리를 위한 대화형 인공 지능 모델입니다.
